@@ -34,9 +34,9 @@ The Jupyter notebooks in the `notebooks` directory contain the code for data cle
 
 ## Visualization
 
-https://github.com/user-attachments/assets/394c173a-d0f0-48a7-b04b-b0ea04a5878d
-
 Power BI is used to create interactive dashboards and visualizations. The `.pbix` file in the repository contains the Power BI project with various visualizations to help understand the stock market trends and patterns.
+
+https://github.com/user-attachments/assets/394c173a-d0f0-48a7-b04b-b0ea04a5878d
 
 ## Results
 
