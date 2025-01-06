@@ -2,6 +2,9 @@
 
 This repository contains a stock analysis project using Python and Power BI. The aim of this project is to analyze stock data, derive insights, and visualize the results effectively.
 
+![Screenshot (317)](https://github.com/user-attachments/assets/c2e4ffeb-2659-4ae6-bb16-8a607f19a50f)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
