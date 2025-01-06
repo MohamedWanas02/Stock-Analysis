@@ -51,4 +51,4 @@ The key findings and insights from the analysis are documented in the `results` 
 If you have any questions or feedback, feel free to reach out:
 
 - GitHub: [MohamedWanas02](https://github.com/MohamedWanas02)
-- Email: [mewanas81@gmail.com]
+- Email: mewanas81@gmail.com
